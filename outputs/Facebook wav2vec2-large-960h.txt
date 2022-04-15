@@ -1,0 +1,5 @@
+Facebook wav2vec2-large-960h
+Link: https://huggingface.co/facebook/wav2vec2-large-960h
+Computation time on CPU: 0.8615999999999999 s
+
+Output: “HEY MY FRIEND HOW ARE YOU HAUSET COMEN”
