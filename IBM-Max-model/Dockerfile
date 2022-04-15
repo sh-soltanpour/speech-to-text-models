@@ -1,0 +1,1 @@
+FROM quay.io/codait/max-speech-to-text-converter
